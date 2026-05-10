@@ -1,0 +1,6 @@
+Contains the Collection of comments, has to be classified as:
+
+0 - hate speec
+1 - offensive language
+2 - neither
+
